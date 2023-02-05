@@ -1,2 +1,3 @@
-# js-repo
-my JavaScript repository
+# Javascript 
+
+my practice
